@@ -1,0 +1,5 @@
+# The volume of the music played on player joining
+music-volume: 1.0
+
+# Add all the quotes here as a string (within "")
+quote-list: ["Quote Example","Another quote example"]

@@ -1,0 +1,11 @@
+name: JoinMusicPlayer
+version: '1.0'
+main: org.oreo.joinMusicPlayer.JoinMusicPlayer
+api-version: '1.20'
+
+commands:
+
+  music:
+    description: Play music for all the players
+    usage: /<command>
+    aliases: [ music ]
